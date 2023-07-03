@@ -34,25 +34,25 @@
     "education": [
        {
         "id": 1,
-        "heading1": "Education",
-        "content1": "Grade 11",
-        "heading2": "Work",
-        "content2": "Worked part time for Catering Companies La Elegante Catering and The Catering Club"
+        "headingone": "Education",
+        "contentone": "Grade 11",
+        "headingtwo": "Work",
+        "contenttwo": "Worked part time for Catering Companies La Elegante Catering and The Catering Club"
 
        },
        {
         "id": 2,
-        "heading1": "Education",
-        "content1": "Grade 12 Matriculated with a Bachelors",
-        "heading2": "Work",
-        "content2": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "headingone": "Education",
+        "contentone": "Grade 12 Matriculated with a Bachelors",
+        "headingtwo": "Work",
+        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
        },
        {
         "id": 3,
-        "heading1": "Education",
-        "content1": "Life Coices Academy Coding Bootcamp",
-        "heading2": "Work",
-        "content2": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "headingone": "Education",
+        "contentone": "Life Coices Academy Coding Bootcamp",
+        "headingtwo": "Work",
+        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
        }
     ],
     "projects": [
