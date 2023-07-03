@@ -42,17 +42,17 @@
        },
        {
         "id": 2,
-        "headingone": "Education",
-        "contentone": "Grade 12 Matriculated with a Bachelors",
-        "headingtwo": "Work",
-        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "headingthree": "Education",
+        "contentthree": "Grade 12 Matriculated with a Bachelors",
+        "headingfour": "Work",
+        "contentfour": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
        },
        {
         "id": 3,
-        "headingone": "Education",
-        "contentone": "Life Coices Academy Coding Bootcamp",
-        "headingtwo": "Work",
-        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "headingfive": "Education",
+        "contentfive": "Life Coices Academy Coding Bootcamp",
+        "headingsix": "Work",
+        "contentsix": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
        }
     ],
     "projects": [
