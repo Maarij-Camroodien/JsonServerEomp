@@ -2,31 +2,31 @@
     "skills": [
             {
               "id": 1,
-              "image": "https://i.postimg.cc/wjTYPQ9d/img5.png",
+              "image": "https://i.postimg.cc/854YdXh7/html5-logo-31813.png",
               "name": "HTML",
               "level": "SPECIALIST"
             },
             {
               "id": 2,
-              "image": "https://i.postimg.cc/25S9FCnQ/csslogo.png",
+              "image": "https://i.postimg.cc/T3QQ45Ks/html5-logo-31821.png",
               "name": "CSS",
               "level": "SPECIALIST"
             },
             {
               "id": 3,
-              "image": "https://i.postimg.cc/fbMvXdV2/bootstraplogo.png",
+              "image": "https://i.postimg.cc/6qHDKb3k/bootstrap-logo-shadow.png",
               "name": "BOOTSTRAP",
               "level": "SPECIALIST"
             },
             {
               "id": 4,
-              "image": "https://i.postimg.cc/Prm5C3Bj/javascript.png",
+              "image": "https://i.postimg.cc/L6x1dtVj/javascript-39395.png",
               "name": "JAVASCRIPT",
               "level": "SKILLED"
             },
             {
               "id": 5,
-              "image": "https://i.postimg.cc/WbSFz59c/png-transparent-vuejs-original-wordmark-logo-icon.png",
+              "image": "https://i.postimg.cc/sDHrCxGM/62a74f85223343fbc2207d05.png",
               "name": "VUE JS",
               "level": "BEGINNER"
             }
