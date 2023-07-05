@@ -3,30 +3,35 @@
             {
               "id": 1,
               "image": "fa-brands fa-html5",
+              "color": "#e44d26",
               "name": "HTML",
               "level": "SPECIALIST"
             },
             {
               "id": 2,
               "image": "fa-brands fa-css3-alt",
+              "color": "#1673b6",
               "name": "CSS",
               "level": "SPECIALIST"
             },
             {
               "id": 3,
               "image": "fa-brands fa-bootstrap",
+              "color": "#7811f7",
               "name": "BOOTSTRAP",
               "level": "SPECIALIST"
             },
             {
               "id": 4,
               "image": "fa-brands fa-square-js",
+              "color": "#dab92d",
               "name": "JAVASCRIPT",
               "level": "SKILLED"
             },
             {
               "id": 5,
               "image": "fa-brands fa-vuejs",
+              "color": "#41b883",
               "name": "VUE JS",
               "level": "BEGINNER"
             }
