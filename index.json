@@ -5,35 +5,40 @@
               "image": "fa-brands fa-html5",
               "color": "#e44d26",
               "name": "HTML",
-              "level": "SPECIALIST"
+              "level": "ADVANCED",
+              "description": "I am fully committed to mastering HTML and expanding my knowledge of this language, I've done alot of self-studying and worked to better my knowladge on this language"
             },
             {
               "id": 2,
               "image": "fa-brands fa-css3-alt",
               "color": "#1673b6",
               "name": "CSS",
-              "level": "SPECIALIST"
+              "level": "ADVANCED",
+              "description": "I am commited to mastering CSS and expand my knowladge of this language, CSS is a easy language to get used to and i've done alot of self-studing in order to get better at this language"
             },
             {
               "id": 3,
               "image": "fa-brands fa-bootstrap",
               "color": "#7811f7",
               "name": "BOOTSTRAP",
-              "level": "SPECIALIST"
+              "level": "ADVANCED",
+              "description": "Bootstrap was an easy language to get used to and I constantly use it in order to get better at the language"
             },
             {
               "id": 4,
               "image": "fa-brands fa-square-js",
               "color": "#dab92d",
               "name": "JAVASCRIPT",
-              "level": "SKILLED"
+              "level": "SKILLED",
+              "description": "I am dedicated to mastering Javascript and expand my knowledge in this programming language, i got better at Javascript the more i worked with the language"
             },
             {
               "id": 5,
               "image": "fa-brands fa-vuejs",
               "color": "#41b883",
               "name": "VUE JS",
-              "level": "BEGINNER"
+              "level": "BEGINNER",
+              "description": "I embrace the challenges that come with learning Vue.js and persistently seek new opportunities to apply my knowledge, pushing myself to become proficient in building dynamic and interactive web applications."
             }
     ],
     "education": [
@@ -43,7 +48,7 @@
         "image": "https://i.postimg.cc/W471yGjZ/le-elegante.jpg",
         "contentone": "Grade 11",
         "headingtwo": "Work",
-        "contenttwo": "Worked part time for Catering Companies La Elegante Catering and The Catering Club"
+        "contenttwo": "Worked part time for Catering Companies 'La Elegante Catering' and 'The Catering Club'"
 
        },
        {
@@ -52,7 +57,7 @@
         "image": "https://i.postimg.cc/2S7qpR73/RHS.jpg",
         "contentone": "Grade 12 Matriculated with a Bachelors",
         "headingtwo": "Work",
-        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "contenttwo": "Part time for a Catering Company 'The Catering Club' Part time in Photo Development 'Unikem Foto'"
        },
        {
         "id": 3,
@@ -60,14 +65,15 @@
         "image": "https://i.postimg.cc/fLXBZR2Y/lifechices.png",
         "contentone": "Life Coices Academy Coding Bootcamp",
         "headingtwo": "Work",
-        "contenttwo": "Part time for a Catering Company The Catering Club Part time in Photo Development Unikem Foto"
+        "contenttwo": "Part time for a Catering Company 'The Catering Club' Part time in Photo Development 'Unikem Foto'"
        }
     ],
     "projects": [
           {
             "id": 1,
             "image": "https://i.postimg.cc/4xJLfGvX/Ecom-Poject.png",
-            "name": "Ecommerce Prject",
+            "name": "Ecommerce Project",
+            "description": "Ecommerce website using HTML, CSS, Bootstrap and Javascript",
             "github": "https://github.com/Maarij-Camroodien/javascriptEOMP.git",
             "netlify": "https://mangaverse12.netlify.app/"
           },
@@ -75,6 +81,7 @@
             "id": 2,
             "image": "https://i.postimg.cc/1XkkCjbf/Calculator.png",
             "name": "Calculator",
+            "description": "Calculator I built using HTML, CSS, and Javascript",
             "github": "https://github.com/Maarij-Camroodien/calculator.git",
             "netlify": "https://darling-creponne-97bc95.netlify.app/"
           },
@@ -82,6 +89,7 @@
             "id": 3,
             "image": "https://i.postimg.cc/0y0pNJk4/Temperature-Converter.png",
             "name": "Temperature Converter",
+            "description": "Temperature Converter using HTML, CSS, and Javascript",
             "github": "https://github.com/Maarij-Camroodien/temperatureConverter.git",
             "netlify": "https://resilient-druid-7df01b.netlify.app/"
           },
@@ -89,6 +97,7 @@
             "id": 4,
             "image": "https://i.postimg.cc/1tDVBfdZ/portfolio1.png",
             "name": "Portfolio 1",
+            "description": "First Portfolio using HTML, CSS and Bootstrap",
             "github": "https://github.com/Maarij-Camroodien/maarijportfolio1.git",
             "netlify": "https://majestic-blancmange-bdda69.netlify.app/"
           },
@@ -96,6 +105,7 @@
             "id": 5,
             "image": "https://i.postimg.cc/XqzWyggN/To-do-List.png",
             "name": "To do List",
+            "description": " To Do List using HTML, CSS, Javascript",
             "github": "https://github.com/Maarij-Camroodien/toDoList.git",
             "netlify": "https://incomparable-tulumba-59c2c0.netlify.app/"
           },
@@ -103,6 +113,7 @@
             "id": 6,
             "image": "https://i.postimg.cc/jj5GyfLL/Bmi-Calculator.png",
             "name": "Bmi Calculator",
+            "description": "BMI Calculator website using HTML, CSS, and Javascript",
             "github": "https://github.com/Maarij-Camroodien/bmicalculator.git",
             "netlify": "https://maarij-bmicalculator.netlify.app/"
           }
@@ -128,7 +139,7 @@
            },
            {
             "id": 4,
-            "image": "https://i.postimg.cc/pLrsKnLZ/Rabia-Haucha.jpg",
+            "image": "https://i.postimg.cc/G3V3ssVR/Rabia.jpg",
             "name": "Rabia Haucha",
             "testi": "As for a starter Ma'arij is very helpful and brings positive vibes into the workplace.He is extremely helpful and always pays attention in class.His work is always neat and his progress has improved alot over the past few weeks.He is a fast learner and pays as much attention to detail as possible.He is a kind human being and is very considerate and overall he works really hard to get his work done.I would highly recommend him because he would not only exceed your expectations but his ambition would strive in any company !"
            },
